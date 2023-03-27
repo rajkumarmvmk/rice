@@ -1,2 +1,103 @@
-hai rajkumar 1
-2525
+ls: Lists the contents of a directory.
+cd: Changes the current working directory.
+mkdir: Creates a new directory.
+touch: Creates an empty file or updates the access and modification times of an existing file.
+rm: Removes a file or directory.
+cp: Copies a file or directory.
+mv: Moves or renames a file or directory.
+cat: Displays the contents of a file.
+grep: Searches for a pattern in a file.
+chmod: Changes the permissions of a file or directory.
+chown: Changes the ownership of a file or directory.
+sudo: Runs a command with administrative privileges.
+top: Displays real-time information about running processes.
+ps: Lists the currently running processes.
+kill: Terminates a running process.
+These commands only scratch the surface of what you can do in Linux, but they should get you started!
+
+
+
+
+Raj Kumar
+linux commands
+Here are some additional Linux commands you may find useful:
+
+man: Displays the manual page for a command.
+pwd: Prints the current working directory.
+echo: Prints text to the console.
+date: Displays the current date and time.
+hostname: Displays the name of the current host.
+ifconfig: Displays network interface configuration.
+ping: Tests network connectivity to a remote host.
+traceroute: Traces the route packets take to reach a remote host.
+wget: Downloads files from the internet.
+tar: Creates or extracts tar archives.
+zip/unzip: Creates or extracts zip archives.
+ssh: Connects to a remote host over SSH.
+scp: Copies files to or from a remote host over SSH.
+history: Displays a list of previously executed commands.
+find: Searches for files in a directory hierarchy based on various criteria.
+There are many more Linux commands available, but these should give you a good starting point. Remember, you can use the man command to get help on any of these commands (e.g., man ls will display the manual page for the ls command).
+
+
+
+
+Raj Kumar
+linux commands pdf
+There are many resources available online for learning Linux commands, including PDFs. Here are a few options:
+
+"The Linux Command Line" by William Shotts: This book is available for free online and covers a wide range of Linux commands in detail. It includes examples and exercises to help you practice.
+
+"Linux Command Line Cheat Sheet" by DaveChild: This is a one-page PDF cheat sheet that lists many common Linux commands, along with a brief description of each.
+
+"Linux Commands Reference Cheat Sheet" by Red Hat: This is another one-page cheat sheet that lists many common Linux commands, organized by category.
+
+"Linux Commands Cheat Sheet" by FOSS Post: This is a two-page PDF cheat sheet that includes many common Linux commands, along with examples and explanations.
+
+"Linux Command Line Quick Reference" by Cheatography: This is a two-page PDF cheat sheet that includes many common Linux commands, organized by category.
+
+These resources should give you a good starting point for learning Linux commands.
+
+
+
+
+Raj Kumar
+linux sheat sheet
+Here is a basic Linux command line cheat sheet with some commonly used commands:
+
+File management
+ls: list files and directories
+cd: change directory
+mkdir: create a new directory
+touch: create a new file
+cp: copy a file or directory
+mv: move a file or directory
+rm: remove a file or directory
+cat: display the contents of a file
+Text editing
+nano: open and edit a text file
+vi or vim: another text editor
+sed: stream editor for filtering and transforming text
+awk: pattern scanning and processing language
+Process management
+top: display real-time information about running processes
+ps: list the currently running processes
+kill: terminate a running process
+System information
+df: display disk usage information
+free: display memory usage information
+uname: display system information
+uptime: display how long the system has been running
+Network management
+ifconfig: configure network interface parameters
+ping: test network connectivity to a remote host
+traceroute: trace the route packets take to reach a remote host
+ssh: connect to a remote host over SSH
+scp: copy files to or from a remote host over SSH
+This is just a basic Linux command line cheat sheet, and there are many more commands available. However, these commands should be enough to get you started with using the Linux command line.
+
+
+
+
+
+
